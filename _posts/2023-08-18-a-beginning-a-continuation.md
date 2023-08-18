@@ -6,29 +6,5 @@ I am here to make sure I don't stop writing. Because I have written since I was 
 
 I also got divorced and moved away from my community in Montreal in order to remain close to my son.  As a songwriter, the songs kept flowing. But the writing stopped. The theoretical, the poetic, it dried up. Not out of lack of thought or feeling, but because of...I don't know. Depression? Relief at having finished the PhD? Stress of large style life moves, mountains of life moving, and me moving with them.
 
-The other piece of information that is important to me about this story is my work life, its eros, failure, continuous mental provocation.
+The other piece of information that is important to me about this story is the way I paid my way through that PhD: my work life, its eros, failure, continuous mental provocation. But more on this later. For now, this is a beginning, and a continuation.
 
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
